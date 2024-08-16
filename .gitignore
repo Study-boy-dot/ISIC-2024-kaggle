@@ -3,3 +3,4 @@
 isic-2024-challenge
 models
 *.zip
+*-pth
